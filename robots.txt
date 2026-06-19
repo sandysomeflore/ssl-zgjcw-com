@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sandysomeflore.github.io/ssl-zgjcw-com/sitemap.xml
